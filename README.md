@@ -20,7 +20,7 @@
 
 Apaixonado por programação ❤️ </br>
 Alura 💙  </br>
-Estudante de Ciência da computação 🧑‍💻
+Estudante de Ciência da computação 🧑‍💻</br>
 Violinista nas horas vagas 🎻</br></br>
 
 
