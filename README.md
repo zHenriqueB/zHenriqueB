@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px"  align = "right">
+<img src = "banner2.gif" width = "325px"  align = "right">
 
 # Bem vindo à Tecnolândia 🌆  
 
