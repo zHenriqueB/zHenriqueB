@@ -10,16 +10,18 @@
 <div id="badges">
   <a href = "https://www.linkedin.com/in/henrique-barbosa-barros-5175a3194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
+    
   </a>
- 
-
+ <a href="https://www.instagram.com/henriquebarroos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   
 </div>
 
 Apaixonado por programação ❤️ </br>
 Alura 💙  </br>
-Estudante de Ciência da computação 🧑‍💻</br></br>
+Estudante de Ciência da computação 🧑‍💻
+Violinista nas horas vagas 🎻</br></br>
 
 
 <div>
